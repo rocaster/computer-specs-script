@@ -54,7 +54,3 @@ Generated on   : 24/11/2026 22:40
 
 - Physical USB ports and free video outputs are not reported, because Windows does not expose them reliably.
 - Windows only. A Linux version could use `lscpu`, `lsblk`, `dmidecode` and `/sys/class/dmi/id`.
-
-## License
-
-MIT
